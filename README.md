@@ -1,1 +1,3 @@
 # Webbench
+ 如何使用webbench ；把源代码编译成webbench后，在shell中使用如下
+的命令行。webbench -c 100 -t 60 http：//www。baidu。com/（注意末尾的‘/’不能少。）
